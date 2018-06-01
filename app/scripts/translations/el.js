@@ -33,7 +33,7 @@ X_HelpfulLinks                  :  'Helpful Links & FAQs',
 X_HelpfulLinks_1                :  'How to Access your Wallet',
 X_HelpfulLinks_2                :  'I lost my private key',
 X_HelpfulLinks_3                :  'My private key opens a different address',
-X_HelpfulLinks_4                :  'Migrating to/from ViceCoinWallet',
+X_HelpfulLinks_4                :  'Migrating to/from OGPWallet',
 X_Network                       :  'Network', // aka "node" or "chain" - used in the dropdown in header
 X_Network_Custom                :  'Add Custom Network / Node',
 
